@@ -1,2 +1,4 @@
 # GitHub
- Criando repositórios pelo VS Code
+ Primeiro repositorio do Git e Github
+
+ Repositorio criado pelo Github desktop.
